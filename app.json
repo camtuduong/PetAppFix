@@ -8,6 +8,7 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "permissions": ["LOCATION", "CAMERA", "NOTIFICATIONS"],
     "ios": {
       "supportsTablet": true
     },
